@@ -1,4 +1,6 @@
 {
+  "emptyValue": "empty",
+  "nonExistingValue": "non existing",
   "examples": {
     "cards": {
       "infoCards": {
