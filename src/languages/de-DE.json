@@ -1,8 +1,9 @@
 {
+  "emptyValue": "",
   "examples": {
     "cards": {
       "infoCards": { "social": "Sozial:" },
-      "masterCard": { "cardHolder": "Kartenhalter", "expires": "Läuft ab" }
+      "masterCard": { "cardHolder": "Kartenhalter", "expires": "Läuft Ab" }
     },
     "configurator": {
       "muiConfigurator": "Material-UI-Konfigurator",
